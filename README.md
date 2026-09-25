@@ -1,2 +1,2 @@
 # Yu-Gi-Oh-Card-Database-with-local-storarge-mapping
-This is a database ment to aid users in knowing what is in their collection includng usefull information such as phyical location in collection, market prices, personal notes, and unofficial categories. Name and description are subject to change.
+This is a database meant to aid users in knowing what is in their collection, including useful information such as physical location in the collection, market prices, personal notes, and unofficial categories. The name, description, and functionality are subject to change, as this project is still in the early stages of planning and development.
